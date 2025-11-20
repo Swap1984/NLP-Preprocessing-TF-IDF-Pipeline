@@ -1,5 +1,8 @@
 # TF-IDF-vectorization
+
 An end‑to‑end NLP project demonstrating text cleaning, tokenization, TF‑IDF vectorization, and creation of custom trainable word embeddings. 
+
+
 ⭐ Key Learnings from This Project
 🔹 1. Text Cleaning Pipeline Matters
 We can learn how preprocessing steps—lowercasing, stopword removal, punctuation cleanup, lemmatization—directly influence vocabulary size and embedding quality.
